@@ -1,0 +1,17 @@
+Resume in JSON format:
+
+var resume = [{
+"name": "SIVARANJANI A",
+"age": "26",
+"gender": "female"
+},
+{
+"educational qualification": {"degree": "B.E(ECE)",
+                                            "HSC": "GGHSS",
+                                             "SSLC": "GGHSS"}
+},
+{
+"skills": "C",
+"personal traits": [quick learner, hard worker, co-operative]
+}]
+                                          

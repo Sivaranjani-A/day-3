@@ -1,0 +1,23 @@
+Example: 
+var data = {
+"name": "sivaranjani",
+"age": "23",
+"gender": "male",
+}
+ for in loop:                                                                                     
+for(var key in data){                                                                                 
+console.log(key, data[key]);
+}
+--------------*******------------------------
+Example: 
+var details = [{"name": "siva", "age": "23"},
+                        {"name": "kavi", "age": "2"}];
+for loop:
+  for(var i=0; i<details.length; i++){
+      console.log(details[i].name, details[i].age);
+}
+
+
+
+
+		
